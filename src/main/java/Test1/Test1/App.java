@@ -10,6 +10,8 @@ public class App
     {
         System.out.println( "Hello World!" );
         
-        System.out.println("Changed");
+        System.out.println("First change");
+        
+        System.out.println("Second change");
     }
 }
